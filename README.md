@@ -1,5 +1,14 @@
 # Pwaexample
 
+## HowTo angular 11 pwa
+https://medium.com/an-idea/the-insiders-guide-to-develop-a-progressive-web-application-with-angular-a60dd3a95bff
+
+## HowTo deploy angular to github pages
+https://medium.com/tech-insights/how-to-deploy-angular-apps-to-github-pages-gh-pages-896c4e10f9b4
+
+running on https://votok.github.io/pwaexample/
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
 
 ## Development server
